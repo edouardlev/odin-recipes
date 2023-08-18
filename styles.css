@@ -1,0 +1,41 @@
+* {
+ background-color: rgb(224, 233, 236);
+}
+
+h1,
+h4 {
+    text-align: center;
+    font-family: Arial; 
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    border: 1px solid green;
+    font-size: 20px;
+    margin: 0 10px; /* Adds horizontal spacing between links */
+    text-decoration: none; /* Removes underline from links */
+    color: black; /* Sets link color */
+    padding: 8px; /* Adds padding around each link */
+    font-family: arial;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.back {
+    font-family: arial;
+    text-decoration: none;
+    color: green
+}
+
+li, h2, h3 {
+    font-family: arial;
+}
+
+
